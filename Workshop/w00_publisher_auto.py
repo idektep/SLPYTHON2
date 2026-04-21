@@ -4,7 +4,7 @@ import time
 import random
 
 BROKER = "broker.emqx.io"
-TOPIC = "idt/sensor/demo"
+TOPIC = "SLPYTHON/........"
 
 client = mqtt.Client()
 client.connect(BROKER, 1883, 60)
