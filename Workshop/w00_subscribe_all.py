@@ -1,7 +1,7 @@
 import paho.mqtt.client as mqtt
 
 BROKER = "broker.emqx.io"
-TOPIC = "idt/demo/#"
+TOPIC = "SLPYTHON/....."
 
 def on_connect(client, userdata, flags, rc):
     print("Connected:", rc)
