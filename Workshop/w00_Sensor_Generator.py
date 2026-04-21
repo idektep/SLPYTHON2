@@ -6,7 +6,7 @@ import random
 BROKER = "broker.emqx.io"
 PORT = 1883
 
-TOPIC_PREFIX = "idt"
+TOPIC_PREFIX = "SLPYTHON/ตั้งชื่อเอง"
 
 LOCATIONS = {
     "factory": {
